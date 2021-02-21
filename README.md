@@ -2,13 +2,13 @@
 This repository contains hardware information such as specification, schematics, pinout, and etc.
 
 30 products listed below has been added on initial date (20210222)
-TSX-MCU-E32P61-1
-TSX-POW-AC1-1
-TSX-POW-DC2-1
-TSX-POW-DCB1-1
-TS-COM-XB3P1-1
-TS-COM-U2SD1-1
-TS-COM-W55001-1
+*TSX-MCU-E32P61-1
+*TSX-POW-AC1-1
+*TSX-POW-DC2-1
+*TSX-POW-DCB1-1
+*TS-COM-XB3P1-1
+*TS-COM-U2SD1-1
+*TS-COM-W55001-1
 TS-COM-EC21E1-1
 TS-COM-S76S1-1
 TS-COM-BC95G1-1
