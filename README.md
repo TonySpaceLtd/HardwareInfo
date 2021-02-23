@@ -38,7 +38,7 @@ This repository contains hardware information such as specification, schematic, 
   - [x] Schematic
 - [TS-IF-2321-1](https://github.com/TonySpaceLtd/HardwareInfo/tree/main/TS-IF-2321-1)
   - [x] Schematic
-- [TS-IF-4851-1](https://github.com/TonySpaceLtd/HardwareInfo/tree/main/TS-IF-4851-1)
+- [TS-IF-4852-1](https://github.com/TonySpaceLtd/HardwareInfo/tree/main/TS-IF-4852-1)
   - [x] Schematic
 - [TS-IF-DCI1-1](https://github.com/TonySpaceLtd/HardwareInfo/tree/main/TS-IF-DCI1-1)
   - [x] Schematic
