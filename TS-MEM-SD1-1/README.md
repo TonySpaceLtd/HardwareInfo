@@ -1,2 +1,2 @@
-# List of documents for TS-MEM-FRAM1-1
-- [TS-MEM-FRAM1-1 schematic](TS-MEM-FRAM1-1_SCH.pdf)
+# List of documents for TS-MEM-SD1-1
+- [TS-MEM-SD1-1 schematic](TS-MEM-SD1-1_SCH.pdf)
