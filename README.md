@@ -2,7 +2,7 @@
 This repository contains hardware information such as specification, schematic, pinout, and etc.
 
 30 products listed below has been added on initial date (20210222)
-- [TSX-MCU-E32P61-1](https://github.com/TonySpaceLtd/HardwareInfo/tree/main/TSX-MCU-E32P61-1)
+- [TSX-MCU-E32P61-1](TSX-MCU-E32P61-1)
   - [x] Schematic
 - [TSX-POW-AC1-1](https://github.com/TonySpaceLtd/HardwareInfo/tree/main/TSX-POW-AC1-1)
   - [x] Schematic
