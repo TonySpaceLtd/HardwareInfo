@@ -60,5 +60,5 @@ This repository contains hardware information such as specification, schematic, 
   <img src="https://fp.lnwfile.com/hjk1a0.jpg" width="200">
 - [TS-SEN-SHT312-1](TS-SEN-SHT312-1)
   <img src="https://fp.lnwfile.com/lmqqut.jpg" width="200">
-- [TS-SEN-L861-1](TS-SEN-L861-1)
+- [TS-SEN-L861-1](TS-SEN-L861-1)</br>
   <img src="https://fp.lnwfile.com/aawqx4.jpg" width="200">
