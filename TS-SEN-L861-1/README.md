@@ -9,6 +9,7 @@
 - SPI: No
 - DIO: No
 - AIO: No
+- Others: Quectel L86
 
 # List of documents for TS-SEN-L861-1
 - [TS-SEN-L861-1 schematic](TS-SEN-L861-1_SCH.pdf)
