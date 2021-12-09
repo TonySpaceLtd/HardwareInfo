@@ -6,10 +6,10 @@ Tony SX E32 Pro is the MCU Board that has 32-bit MCU (ESP32-WROVER-IB). Users ar
 - IO 12 channels
 - RTC (Real Time Clock)
 - 3 Regulators
-     - Regulator 1 is a power supply 3.3 VDC for main board such as ESP32, RTC , MAXxxx.
+  - Regulator 1 is a power supply 3.3 VDC for main board such as ESP32, RTC , MAXxxx.
     When ESP32 has power, users are able to program in order to supply electricity for Regulator 2 and Regulator 3 on port I/O25
-   	 - Regulator 2 is a power supply 3.3 VDC for SLOT 1, SLOT 2 and SLOT 3
-   	 - Regulator 3 is a power supply 3.3 VDC for SLOT 4, SLOT 5 and SLOT 6
+  - Regulator 2 is a power supply 3.3 VDC for SLOT 1, SLOT 2 and SLOT 3
+  - Regulator 3 is a power supply 3.3 VDC for SLOT 4, SLOT 5 and SLOT 6
 
 # Specifications
 - PCB size: 71 mm X 103 mm X 6 mm (W x L x H)

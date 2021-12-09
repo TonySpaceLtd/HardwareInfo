@@ -3,11 +3,11 @@ TSX-POW-AC1-x is a power supply unit in SX form of Tony Space platform. Using Hi
 
 In addition, 2 power relays are provided with the board for general purpose. These replays are controlled by digital output pins from the MCU board with the following method.
 - Relay1 controlled by IO14,
-       - Logic High - COM is connected to NC 
-       - Logic Low - COM is connected to NO
+  - Logic High - COM is connected to NC 
+  - Logic Low - COM is connected to NO
 - Relay1 controlled by IO15
-       - Logic High - COM is connected to NC 
-       - Logic Low - COM is connected to NO
+  - Logic High - COM is connected to NC 
+  - Logic Low - COM is connected to NO
 
 # Specifications
 - No. of slot: 0
