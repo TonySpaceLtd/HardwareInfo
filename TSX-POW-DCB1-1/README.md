@@ -1,3 +1,8 @@
+# Product Details
+TSX-POW-DCB1-1 is a power supply unit with 2 slots of 18650 Li-Ion/Li-Polymer battery and charger in SX form of Tony Space platform. It’s suitable for solar-powered or critical applications that need continuity even in failure of power. The charger circuit is set to charge 2 of 18650 batteries at 500mA.
+
+In addition, users are able to get charge and main power present status by reading GPIO pins from the power connector. Low voltage on the CHRG pin means the batteries are being charged, low voltage on the MPP pin indicates the presence of main power. Furthermore, the battery voltage can be measured from a dedicated connector battery check.  
+
 # Specifications
 - No. of slot: 0
 - PCB horizontal: 71 mm
