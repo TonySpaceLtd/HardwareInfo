@@ -1,5 +1,5 @@
 # Product Details
-TSX-POW-AC1-x is a power supply unit in SX form of Tony Space platform. Using Hi-Link’s power module HLK-5M05, the board can deliver 5V 1A from 90-240 VAC. This is sufficient for most applications.
+TSX-POW-AC1-1 is a power supply unit in SX form of Tony Space platform. Using Hi-Link’s power module HLK-5M05, the board can deliver 5V 1A from 90-240 VAC. This is sufficient for most applications.
 
 In addition, 2 power relays are provided with the board for general purpose. These replays are controlled by digital output pins from the MCU board with the following method.
 - Relay1 controlled by IO14,
