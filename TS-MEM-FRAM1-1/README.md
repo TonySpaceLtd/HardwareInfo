@@ -1,3 +1,7 @@
+# Product Details
+TS-MEM-FR1-1 is an expansion memory module for Tony Space platform with I2C interface. The use of F-RAM non-volatile memory allows critical data to be stored and retrieved repeatedly without worry about read-write cycle (as it has 100 trillion cycles) and the loss of power. These data can be, for example, machine states, critical counting variables or critical logs.
+
+
 # Specifications
 - No. of slot: 1
 - PCB horizontal: 26 mm

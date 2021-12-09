@@ -1,3 +1,6 @@
+# Products Details
+TS-SEN-AD3451-1 is an accelerometer sensor module for Tony Space platform. The ADXL345 is a small, thin, ultralow power, 3-axis accelerometer with high resolution (13-bit) measurement at up to ±16 g. It measures the static acceleration of gravity in tilt-sensing applications, as well as dynamic acceleration resulting from motion or shock. Its high resolution (3.9 mg/LSB) enables measurement of inclination changes less than 1.0°.
+
 # Specifications
 - Specifications: 
 - No. of slot: 1
@@ -5,7 +8,7 @@
 - PCB vertical: 31 mm
 - Height: 19 mm
 - Power supply: 3V3
-- I2C:Yes
+- I2C: Yes
 - UART: No
 - SPI: No
 - DIO:  Yes
